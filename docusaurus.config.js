@@ -81,6 +81,7 @@ const config = {
           },
           { to: '/blog', label: 'Nyheter', position: 'left' },
           { to: '/business', label: 'Företag', position: 'left' },
+          { to: '/doc-intro', label: 'Nämnder2', position: 'left' },
           {
             href: 'https://www.facebook.com/groups/1695683603989665',
             label: 'Facebook',
